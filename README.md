@@ -1,7 +1,6 @@
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://user-images.githubusercontent.com/9092863/176780937-95c5d1b5-ee92-4518-a77e-bc252a1bbdc2.gif)
 
-### Hi All!
-My name is Michael Van Der Velden (He/Him)
+### Hi All, I'm Michael Walter Van Der Velden! (He/Him)
 
 I work on various JS, TS, C and Rust Projects. Some even go somewhere.
 Currently, I work at Pretty Little Thing, and in my free time usually I'll be working on weird little projects. I've been trying to blog more frequently in recent months so do check out my blog below.
