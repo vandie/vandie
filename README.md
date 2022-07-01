@@ -1,4 +1,4 @@
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://user-images.githubusercontent.com/9092863/176780937-95c5d1b5-ee92-4518-a77e-bc252a1bbdc2.gif)
+![M W Van Der Velden - A Senior Backend Developer](https://user-images.githubusercontent.com/9092863/176887477-2dc8f575-7779-42a3-89e8-be194a87d0e6.png)
 
 ### Hi All, I'm Michael Walter Van Der Velden! (He/Him)
 
