@@ -10,6 +10,7 @@ Currently, I work at Pretty Little Thing, and in my free time usually I'll be wo
 [![mikevdv.dev/blog](https://img.shields.io/badge/blog-mikevdv.dev/blog-red?style=for-the-badge)](https://mikevdv.dev/blog)
 [![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://mikevdv.dev/blog/rss.xml)
 [![@mvd_vandie on Twitter](https://img.shields.io/badge/twitter-@mvd_vandie-blue?style=for-the-badge&logo=twitter&color=1DA1F2)](https://twitter.com/mvd_vandie)
+[![@mvd_vandie on Twitter](https://img.shields.io/badge/LinkedIn-mikevdv-blue?style=for-the-badge&logo=linkedin&color=0A66C2)]([https://twitter.com/mvd_vandie](https://www.linkedin.com/in/mikevdv/))
 
 #### Portfolio Tech
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
