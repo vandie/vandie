@@ -3,9 +3,9 @@
 ### Hi All, I'm Michael Walter Van Der Velden! (He/Him)
 
 I work on various JS, TS, C and Rust Projects. Some even go somewhere.
-Currently, I work at Pretty Little Thing, and in my free time usually I'll be working on weird little projects. I've been trying to blog more frequently in recent months so do check out my latest blog post below.
+I'm currently working as a senior developer at [Pretty Little Thing](https://prettylittlething.com). Most of my personal projects get documented on my blog. Below you can find a dynamic image and link to the latest post on my blog as well as some other key links about myself. Feel free to reach out, I try to help people out where I can.
 
-[<img src="https://mikevdv.dev/blog/latest/og" alt="latest blog post" width="500px" />](https://mikevdv.dev/blog/latest)
+[<img align="left" src="https://mikevdv.dev/blog/latest/og" alt="latest blog post" width="500px" />](https://mikevdv.dev/blog/latest)
 
 #### Key Links
 [![mikevdv.dev](https://img.shields.io/badge/portfolio-mikevdv.dev-orange?style=for-the-badge)](https://mikevdv.dev)
@@ -21,7 +21,3 @@ Currently, I work at Pretty Little Thing, and in my free time usually I'll be wo
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-### I code in
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![macOS](https://a11ybadges.com/badge?logo=macos)
