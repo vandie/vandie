@@ -3,7 +3,9 @@
 ### Hi All, I'm Michael Walter Van Der Velden! (He/Him)
 
 I work on various JS, TS, C and Rust Projects. Some even go somewhere.
-Currently, I work at Pretty Little Thing, and in my free time usually I'll be working on weird little projects. I've been trying to blog more frequently in recent months so do check out my blog below.
+Currently, I work at Pretty Little Thing, and in my free time usually I'll be working on weird little projects. I've been trying to blog more frequently in recent months so do check out my latest blog post below.
+
+[<img src="https://mikevdv.dev/blog/latest/og" alt="latest blog post" width="500px" />](https://mikevdv.dev/blog/latest)
 
 #### Key Links
 [![mikevdv.dev](https://img.shields.io/badge/portfolio-mikevdv.dev-orange?style=for-the-badge)](https://mikevdv.dev)
