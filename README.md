@@ -1,4 +1,5 @@
-[![M W Van Der Velden - A Senior Backend Developer](https://user-images.githubusercontent.com/9092863/176887477-2dc8f575-7779-42a3-89e8-be194a87d0e6.png)](https://mikevdv.dev)
+[![M W Van Der Velden - Lead Backend Developer](https://github.com/vandie/vandie/assets/9092863/c4840af4-f0a7-4774-90a9-5ae0cfe6d9a9)](https://mikevdv.dev)
+
 
 ### Hi All, I'm Michael Walter Van Der Velden! (He/Him)
 
@@ -11,7 +12,6 @@ I'm currently working as a senior developer at [Pretty Little Thing](https://pre
 [![mikevdv.dev](https://img.shields.io/badge/portfolio-mikevdv.dev-orange?style=for-the-badge)](https://mikevdv.dev)
 [![mikevdv.dev/blog](https://img.shields.io/badge/blog-mikevdv.dev/blog-red?style=for-the-badge)](https://mikevdv.dev/blog)
 [![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://mikevdv.dev/blog/rss.xml)
-[![@mvd_vandie on Twitter](https://flat.badgen.net/twitter/follow/mikevdev?icon=twitter&scale=1.4)](https://twitter.com/mikevdev)
 [![@mvd_vandie on Twitter](https://img.shields.io/badge/LinkedIn-mikevdv-blue?style=for-the-badge&logo=linkedin&color=0A66C2)]([https://twitter.com/mvd_vandie](https://www.linkedin.com/in/mikevdv/))
 
 <br clear="left" />
