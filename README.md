@@ -1,5 +1,4 @@
-[![M W Van Der Velden - Lead Backend Developer](https://github.com/vandie/vandie/assets/9092863/c4840af4-f0a7-4774-90a9-5ae0cfe6d9a9)](https://mikevdv.dev)
-
+[![M W Van Der Velden - Lead Backend Developer](https://github.com/vandie/vandie/assets/9092863/8e81195b-54f6-4262-86e7-ce2d4a1c2a6c)](https://mikevdv.dev)
 
 ### Hi All, I'm Michael Walter Van Der Velden! (He/Him)
 
