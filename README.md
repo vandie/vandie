@@ -3,7 +3,7 @@
 ### Hi All, I'm Michael Walter Van Der Velden! (He/Him)
 
 I work on various JS, TS, C and Rust Projects. Some even go somewhere.
-I'm currently working as a senior developer at [Pretty Little Thing](https://prettylittlething.com). Most of my personal projects get documented on my blog. Below you can find a dynamic image and link to the latest post on my blog as well as some other key links about myself. Feel free to reach out, I try to help people out where I can. For the sake of being open, I also list the full stack of my portfolio.
+I'm currently working as a staff engineer at Which?. Most of my personal projects get documented on my blog. Below you can find a dynamic image and link to the latest post on my blog as well as some other key links about myself. Feel free to reach out, I try to help people out where I can. For the sake of being open, I also list the full stack of my portfolio.
 
 [<img align="left" src="https://mikevdv.dev/blog/latest/og" alt="latest blog post" width="500px" />](https://mikevdv.dev/blog/latest)
 
