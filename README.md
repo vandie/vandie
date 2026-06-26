@@ -8,5 +8,4 @@ I'm currently working as a staff engineer at Which?. Most of my personal project
 #### Key Links
 [![mikevdv.dev](https://img.shields.io/badge/portfolio-mikevdv.dev-orange?style=for-the-badge)](https://mikevdv.dev)
 [![mikevdv.dev/blog](https://img.shields.io/badge/blog-mikevdv.dev/blog-red?style=for-the-badge)](https://mikevdv.dev/blog)
-[![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://mikevdv.dev/blog/rss.xml)
-[![@mvd_vandie on Twitter](https://img.shields.io/badge/LinkedIn-mikevdv-blue?style=for-the-badge&logo=linkedin&color=0A66C2)]([https://twitter.com/mvd_vandie](https://www.linkedin.com/in/mikevdv/))
+[![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://mikevdv.dev/blog/rss/)
